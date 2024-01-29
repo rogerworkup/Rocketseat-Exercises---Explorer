@@ -1,0 +1,53 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    margin: 0;
+    color: #3f3d56;
+}
+
+main{
+    width: 626px;
+    margin: auto;
+    margin-top: 73px;
+    margin-bottom: 64px;
+    
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+    font-size: 32px;
+}
+
+span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+#marca {
+    font-weight: bold;
+    color: #828282
+}
+
+
+#line {
+    width: 391px;
+    height: 0px;
+
+    margin: 0 auto 8px;
+
+    border: 1px solid #ECEFF2;
+}
+
+footer a {
+    font-weight: bold;
+    margin-left: 42px;
+}
+
+#wave{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    align-items: center;
+    width: 1024px;
+}
